@@ -1,0 +1,164 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0/linux-x64",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {},
+    ".NETCoreApp,Version=v6.0/linux-x64": {
+      "AWSLambdaDuyuru/1.0.0": {
+        "dependencies": {
+          "AWSSDK.DynamoDBv2": "3.7.203.9",
+          "AWSSDK.S3": "3.7.205.19",
+          "Amazon.Lambda.Core": "2.1.0",
+          "Amazon.Lambda.Serialization.SystemTextJson": "2.3.1",
+          "MikaelDui.HtmlAgilityPack.Extensions": "0.0.3"
+        },
+        "runtime": {
+          "AWSLambdaDuyuru.dll": {}
+        }
+      },
+      "Amazon.Lambda.Core/2.1.0": {
+        "runtime": {
+          "lib/net6.0/Amazon.Lambda.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Amazon.Lambda.Serialization.SystemTextJson/2.3.1": {
+        "dependencies": {
+          "Amazon.Lambda.Core": "2.1.0"
+        },
+        "runtime": {
+          "lib/net6.0/Amazon.Lambda.Serialization.SystemTextJson.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "AWSSDK.Core/3.7.204.10": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.204.10"
+          }
+        }
+      },
+      "AWSSDK.DynamoDBv2/3.7.203.9": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.204.10"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.DynamoDBv2.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.203.9"
+          }
+        }
+      },
+      "AWSSDK.S3/3.7.205.19": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.204.10"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.S3.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.205.19"
+          }
+        }
+      },
+      "HtmlAgilityPack/1.11.42": {
+        "runtime": {
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {
+            "assemblyVersion": "1.11.42.0",
+            "fileVersion": "1.11.42.0"
+          }
+        }
+      },
+      "MikaelDui.Extensions/1.0.26": {
+        "runtime": {
+          "lib/net6.0/MikaelDui.Extensions.dll": {
+            "assemblyVersion": "1.0.26.0",
+            "fileVersion": "1.0.26.0"
+          }
+        }
+      },
+      "MikaelDui.HtmlAgilityPack.Extensions/0.0.3": {
+        "dependencies": {
+          "HtmlAgilityPack": "1.11.42",
+          "MikaelDui.Extensions": "1.0.26"
+        },
+        "runtime": {
+          "lib/net6.0/MikaelDui.HtmlAgilityPack.Extensions.dll": {
+            "assemblyVersion": "0.0.3.0",
+            "fileVersion": "0.0.3.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AWSLambdaDuyuru/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Amazon.Lambda.Core/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ok06UhfBZw6j6+PhiJR9C0EOMuJvnq8rMCHVkaFmPFrlI/q447ukwGZQKaAKqodV+MNTfpb/iPxjgUPVbSlVVw==",
+      "path": "amazon.lambda.core/2.1.0",
+      "hashPath": "amazon.lambda.core.2.1.0.nupkg.sha512"
+    },
+    "Amazon.Lambda.Serialization.SystemTextJson/2.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7dGGgikMlEz72rGqeDwQEIxq+O8RDEdR4GH2S7hfZ8uzv5lyWVDuP2urV6MyD6APJ2WVHRwJlV74bB+XJncQpw==",
+      "path": "amazon.lambda.serialization.systemtextjson/2.3.1",
+      "hashPath": "amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512"
+    },
+    "AWSSDK.Core/3.7.204.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wYTTmT2C8aik3AxQlOVTH2JpsEnprUCbmeImj04nv1bmfw/vhfh1egXX9/F4ptQF8RReMS4tWIS07csfFRG+Kg==",
+      "path": "awssdk.core/3.7.204.10",
+      "hashPath": "awssdk.core.3.7.204.10.nupkg.sha512"
+    },
+    "AWSSDK.DynamoDBv2/3.7.203.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8Uaox3oVZQW1JUfoIHjl4QtewucgjLyTNU8lNKoRR3rN+rdX7PSCZiywDambALe7IItkVDroPcih7E9dy/ntzw==",
+      "path": "awssdk.dynamodbv2/3.7.203.9",
+      "hashPath": "awssdk.dynamodbv2.3.7.203.9.nupkg.sha512"
+    },
+    "AWSSDK.S3/3.7.205.19": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fGQb6kLBlrTQNVZqATZLfByi7h7BNkNgXzZAFm6ZJN4qyhZSZFYBZ3Hc0Vs0l7Z9oSqmYJesIWgul7mwtmHVaA==",
+      "path": "awssdk.s3/3.7.205.19",
+      "hashPath": "awssdk.s3.3.7.205.19.nupkg.sha512"
+    },
+    "HtmlAgilityPack/1.11.42": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LDc1bEfF14EY2DZzak4xvzWvbpNXK3vi1u0KQbBpLUN4+cx/VrvXhgCAMSJhSU5vz0oMfW9JZIR20vj/PkDHPA==",
+      "path": "htmlagilitypack/1.11.42",
+      "hashPath": "htmlagilitypack.1.11.42.nupkg.sha512"
+    },
+    "MikaelDui.Extensions/1.0.26": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1I8iZir9GNEr/xdz0CfEho4ZMFe9LW/dYcXomMjgJtTtSuFFOicr3zOR4MXXxpQ0DC7tTrCUO/3qSExAmQO/rA==",
+      "path": "mikaeldui.extensions/1.0.26",
+      "hashPath": "mikaeldui.extensions.1.0.26.nupkg.sha512"
+    },
+    "MikaelDui.HtmlAgilityPack.Extensions/0.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qcvfOoghj69j8eghkvcxN66lE0bhrGlO+6/XuQ/4aQfjLSTeyMBW8Emsm4VEG/N+sFAFHeSp9BOYaZ8yYK2kwA==",
+      "path": "mikaeldui.htmlagilitypack.extensions/0.0.3",
+      "hashPath": "mikaeldui.htmlagilitypack.extensions.0.0.3.nupkg.sha512"
+    }
+  }
+}

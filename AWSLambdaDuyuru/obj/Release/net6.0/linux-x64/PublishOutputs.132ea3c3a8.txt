@@ -1,0 +1,12 @@
+C:\Users\Samet\Desktop\AWSLambdaDuyuru\AWSLambdaDuyuru\bin\Release\net6.0\publish\AWSLambdaDuyuru.deps.json
+C:\Users\Samet\Desktop\AWSLambdaDuyuru\AWSLambdaDuyuru\bin\Release\net6.0\publish\AWSLambdaDuyuru.runtimeconfig.json
+C:\Users\Samet\Desktop\AWSLambdaDuyuru\AWSLambdaDuyuru\bin\Release\net6.0\publish\AWSLambdaDuyuru.pdb
+C:\Users\Samet\Desktop\AWSLambdaDuyuru\AWSLambdaDuyuru\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\Samet\Desktop\AWSLambdaDuyuru\AWSLambdaDuyuru\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Samet\Desktop\AWSLambdaDuyuru\AWSLambdaDuyuru\bin\Release\net6.0\publish\AWSSDK.Core.dll
+C:\Users\Samet\Desktop\AWSLambdaDuyuru\AWSLambdaDuyuru\bin\Release\net6.0\publish\AWSSDK.DynamoDBv2.dll
+C:\Users\Samet\Desktop\AWSLambdaDuyuru\AWSLambdaDuyuru\bin\Release\net6.0\publish\AWSSDK.S3.dll
+C:\Users\Samet\Desktop\AWSLambdaDuyuru\AWSLambdaDuyuru\bin\Release\net6.0\publish\HtmlAgilityPack.dll
+C:\Users\Samet\Desktop\AWSLambdaDuyuru\AWSLambdaDuyuru\bin\Release\net6.0\publish\MikaelDui.Extensions.dll
+C:\Users\Samet\Desktop\AWSLambdaDuyuru\AWSLambdaDuyuru\bin\Release\net6.0\publish\MikaelDui.HtmlAgilityPack.Extensions.dll
+C:\Users\Samet\Desktop\AWSLambdaDuyuru\AWSLambdaDuyuru\bin\Release\net6.0\publish\AWSLambdaDuyuru.dll
